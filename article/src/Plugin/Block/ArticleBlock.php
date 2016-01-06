@@ -1,7 +1,7 @@
 <?php
 /**
  * @file
- * Contains \Drupal\xai\Plugin\Block\XaiBlock.
+ * Contains \Drupal\article\Plugin\Block\XaiBlock.
  */
 
 namespace Drupal\article\Plugin\Block;
